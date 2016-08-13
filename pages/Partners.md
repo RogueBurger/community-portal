@@ -26,3 +26,13 @@ Discord.FM is an awesome radio station on Discord. They have several bots playin
 Join them in Discord: https://discord.gg/0nlCIL7Osct9NhuZ
 
 ---
+
+### Extrokold Games
+
+Extrokold Games is an awesome indie game development company out of San Diego, Ca. They are currently working on Unearned Bounty, which is a really fun pirate ship combat game.
+
+<br />
+
+Join them in Discord: http://discord.me/unearnedbounty
+
+---

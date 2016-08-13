@@ -15,7 +15,7 @@ We expect members of this community to be polite and kind to other members of th
 Mental health issues, such as depression, suicide, and mental conditions are taken very seriously here.  Even if used in jest, saying things like “go drink bleach”, or calling someone “autistic” will not be tolerated.  Bullying and harassment are forbidden as well. If you struggle with any of these issues yourself, we highly encourage you to go visit the awesome guys over at Patch Gaming: https://discord.gg/0X1B9skZ7gU6i3IU
 
 
-### 3. ** No racism/sexism/homophobia/whateverisms, and no NSFW content.**  
+### 3. **No racism/sexism/homophobia/whateverisms, and no NSFW content.**  
 We do not accept racism, sexism, homophobia, or anything of the sort. This is an accepting community, and this rule goes along with Rule #1. Obviously there are a lot of possible posts that are right on the line between being acceptable and being unacceptable.  These will be left up to the judgement of Mods/Staff, so if you are warned or if you are given a strike, please desist from making further inappropriate posts immediately.  
 
 
@@ -35,7 +35,7 @@ Until further notice, advertising your discord server/group/community/youtube is
 A polite message asking if people want to come talk in voice channels or play games is acceptable, but incessantly bothering people via PM or spamming messages is not allowed.
 
 
-### 8. **No discussing or encouraging illegal content/behavior
+### 8. **No discussing or encouraging illegal content/behavior**
 We don't want to get sued.  Things like posting links to torrent sites, encouraging hacking/DDOSing, or advocating other illegal activity is prohibited.
 
 

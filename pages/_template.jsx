@@ -38,7 +38,6 @@ export default class _template extends React.Component {
                                     <Link to='/servers/' className="nav-item">Servers</Link>
                                     <Link to='/rules/' className="nav-item">Rules</Link>
                                     <Link to='/partners/' className="nav-item">Partners</Link>
-                                    <Link to='/events/' className="nav-item">Events</Link>
                                     <a href="https://forum.lfgame.rs/" className="nav-item" target="_blank">Forum</a>
                                     <a href="https://discord.me/lfg" className="nav-item" target="_blank">Discord</a>
                                 </div>
