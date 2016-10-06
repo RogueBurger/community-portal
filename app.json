@@ -2,7 +2,6 @@
   "name": "community-portal",
   "description": "",
   "scripts": {
-    "postdeploy": "bin/setup"
   },
   "env": {
   },
@@ -12,6 +11,9 @@
 
   ],
   "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
     {
       "url": "https://github.com/heroku/heroku-buildpack-static.git"
     }
