@@ -1,0 +1,19 @@
+{
+  "name": "community-portal",
+  "description": "",
+  "scripts": {
+    "postdeploy": "bin/setup"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku-buildpack-static"
+    }
+  ]
+}
