@@ -2,6 +2,7 @@
   "name": "community-portal",
   "description": "",
   "scripts": {
+    "postdeploy": "gatsby build"
   },
   "env": {
   },
