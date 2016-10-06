@@ -6,6 +6,6 @@ class: events
 Below you find the current events for Looking For Gamers.
 
 
-### Giveaways
+### Gallery
 
-There is a 4th of July giveaway coming. Stay tuned!
+There will be a gallery event coming up soon, so start taking pictures of your favorite scenes in your games!
