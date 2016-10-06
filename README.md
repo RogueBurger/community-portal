@@ -4,4 +4,6 @@ Using bulma CSS Framework, and react/gatsby.
 
 `git clone`, `npm install`, `npm install g gatsby`, `gastby develop`
 
-when ready to deploy, run `gatsby build`, `git commit`, and `git push`
+When ready to deploy, run `gatsby build`, `git commit`, and `git push`
+
+Then, tell Aaron to deploy. (Aaron, move this to heroku, for auto deploy)
