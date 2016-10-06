@@ -7,3 +7,5 @@ Using bulma CSS Framework, and react/gatsby.
 When ready to deploy, run `gatsby build`, `git commit`, and `git push`
 
 Then, tell Aaron to deploy. (Aaron, move this to heroku, for auto deploy)
+
+Any questions, ask Aaron.
