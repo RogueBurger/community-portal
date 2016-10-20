@@ -13,7 +13,7 @@ Rust | Looking For Gamers - Slightly Modded Rust Server | <a href="steam://conne
 CS:GO | Looking For Gamers - CS:GO | <a href="steam://connect/csgo.lfgame.rs:27015">csgo.lfgame.rs:27015</a> | 
 TF2 | Pingperfect&#46;com: Looking For Gamers | <a href="steam://connect/tf2.lfgame.rs:27055">tf2.lfgame.rs:27055</a> | 
 FTB Infinity Evolved | Looking For Gamers | ftb.lfgame.rs | 
-Arma3 | Coming Soon | Coming Soon | To be ran by Gibson585
+Arma3 | Looking for Gamers | arma3.lfgame.rs | 
 
 ---
 
